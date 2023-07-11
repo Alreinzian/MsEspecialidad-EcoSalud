@@ -18,7 +18,7 @@ public class EspecialidadController {
     private EspecialidadService especialidadService;
 
     @PostMapping
-    public ResponseEntity<Especialidad> guardarProducto(@RequestBody Especialidad especialidad){
+    public ResponseEntity<Especialidad> guardarEspecialidad(@RequestBody Especialidad especialidad){
         return ResponseEntity.status(HttpStatus.CREATED).body(especialidadService.create(especialidad));
     }
 
