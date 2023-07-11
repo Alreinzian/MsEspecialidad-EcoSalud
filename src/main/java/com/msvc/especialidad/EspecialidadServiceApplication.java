@@ -1,4 +1,4 @@
-package com.msvc.producto;
+package com.msvc.especialidad;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

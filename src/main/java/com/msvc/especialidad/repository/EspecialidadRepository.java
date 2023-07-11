@@ -1,8 +1,8 @@
-package com.msvc.producto.repository;
+package com.msvc.especialidad.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-import com.msvc.producto.entities.Especialidad;
+import com.msvc.especialidad.entities.Especialidad;
 
 import java.util.List;
 

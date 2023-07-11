@@ -1,8 +1,8 @@
-package com.msvc.producto.services;
+package com.msvc.especialidad.services;
 
 import java.util.List;
 
-import com.msvc.producto.entities.Especialidad;
+import com.msvc.especialidad.entities.Especialidad;
 
 public interface EspecialidadService {
 

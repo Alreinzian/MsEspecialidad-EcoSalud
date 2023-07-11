@@ -1,4 +1,4 @@
-package com.msvc.producto.entities;
+package com.msvc.especialidad.entities;
 
 
 import org.springframework.data.annotation.Id;

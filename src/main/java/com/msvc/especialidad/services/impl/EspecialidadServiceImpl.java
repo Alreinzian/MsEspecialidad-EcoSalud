@@ -1,12 +1,11 @@
-package com.msvc.producto.services.impl;
+package com.msvc.especialidad.services.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-
-import com.msvc.producto.entities.Especialidad;
-import com.msvc.producto.repository.EspecialidadRepository;
-import com.msvc.producto.services.EspecialidadService;
+import com.msvc.especialidad.entities.Especialidad;
+import com.msvc.especialidad.repository.EspecialidadRepository;
+import com.msvc.especialidad.services.EspecialidadService;
 
 import java.util.List;
 

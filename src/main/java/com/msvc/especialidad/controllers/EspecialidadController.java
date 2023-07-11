@@ -1,12 +1,12 @@
-package com.msvc.producto.controllers;
+package com.msvc.especialidad.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.msvc.producto.entities.Especialidad;
-import com.msvc.producto.services.EspecialidadService;
+import com.msvc.especialidad.entities.Especialidad;
+import com.msvc.especialidad.services.EspecialidadService;
 
 import java.util.List;
 
